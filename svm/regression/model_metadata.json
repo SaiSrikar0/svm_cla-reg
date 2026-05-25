@@ -1,0 +1,21 @@
+{
+  "model_type": "LinearSVR",
+  "kernel": "linear",
+  "feature_columns": [
+    "age",
+    "study_hours_per_day",
+    "sleep_hours",
+    "stress_level",
+    "motivation_level",
+    "focus_score",
+    "attendance_percentage",
+    "assignment_completion_rate",
+    "gender_Male",
+    "city_type_Semi-Urban",
+    "city_type_Urban"
+  ],
+  "r2_score": 0.34555462970008377,
+  "mse": 219.0994949608548,
+  "mae": 12.020808522132247,
+  "training_date": "2026-05-25T22:37:07.625399"
+}
